@@ -1,7 +1,5 @@
-streamlit==1.13.0
-numpy @ file:///C:/ci/numpy_and_numpy_base_1649782970434/work
-numpydoc @ file:///opt/conda/conda-bld/numpydoc_1643788541039/work
-pandas @ file:///C:/ci/pandas_1650373458095/work
-plotly @ file:///opt/conda/conda-bld/plotly_1646671701182/work
-matplotlib @ file:///C:/ci/matplotlib-suite_1647423638658/work
-matplotlib-inline @ file:///tmp/build/80754af9/matplotlib-inline_1628242447089
+streamlit
+numpy 
+pandas 
+plotly 
+matplotlib 
