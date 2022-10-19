@@ -1,6 +1,5 @@
 streamlit==1.13.0
 numpy==1.23.4
 pandas==1.5.0
-plotly @ file:///opt/conda/envs/env/conda-bld/plotly_1660225103991/work/packages/python/plotly/dist/plotly-5.10.0.tar.gz
 matplotlib-inline @ file:///C:/ci/matplotlib-inline_1661915841596/work
 matplotlib==3.6.1
